@@ -1,5 +1,5 @@
 # GitHub-Cheat-Sheet
-
+```
 git remote
 git remote add origin <github url>: will add a remote 
 git remote rm origin: removes remote
